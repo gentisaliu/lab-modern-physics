@@ -1,4 +1,11 @@
 # Protokolle zum Praktikum "Moderne Physik"
+Dieses Repository beinhaltet alle vollständig von mir angefertigten Protokolle zu den Experimenten aus dem Praktikum "Moderne Physik" im Rahmen meines Physik-Bachelorstudiums am KIT im WS 2014/15.
+
+Jedes Protokoll besteht aus diesen Abschnitten:
+- theoretische Grundlagen zum Experiment
+- technische Realisierung des Experiments (experimenteller Aufbau)
+- ausführliche Beschreibung der Versuchsdurchführung
+- Auswertung der Messdaten mit Formeln, evtl. Fehlerrechnung
 
 ## Experimente
 - **Neutronendiffusion**: Bestimmung der Relaxationslänge schneller Neutronen und der Diffusionslänge thermischer Neutronen in Wasser

@@ -1,7 +1,7 @@
 # Protokolle zum Praktikum "Moderne Physik"
 Dieses Repository beinhaltet alle vollständig von mir angefertigten Protokolle zu den Experimenten aus dem [Praktikum "Moderne Physik"](http://www.physik.kit.edu/Studium/F-Praktika) an der KIT im Wintersemester 2014/15, die im Rahmen eines Physik-Bachelorstudiums angeboten wird.
 
-Ein Protokoll besteht aus diesen Abschnitten:
+Ein Protokoll beinhaltet:
 - theoretische Grundlagen zum Experiment
 - technische Realisierung des Experiments (experimenteller Aufbau)
 - ausführliche Beschreibung der Versuchsdurchführung
